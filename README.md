@@ -47,7 +47,7 @@ Yes, there is a Zoom Room:
 | 18/11/2024 |Alessandro Margueritte|       |
 | 25/11/2024 |Deepthi Pathare         |       |
 | 02/12/2024 |Emma Rydholm|       |
-| 09/12/2024 |         |       |
+| 09/12/2024 |David Bosch|       |
 | 16/12/2024 |         |       |
 | 23/12/2024 |No Seminar         |   No Seminar    |
 | 30/12/2024 |No Seminar    |  No Seminar     |
