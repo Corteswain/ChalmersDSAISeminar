@@ -40,14 +40,14 @@ Yes, there is a Zoom Room:
 | 30/09/2024 |Stefano Sarao Mannelli<br>_Chalmers_|       |
 | 07/10/2024 |         |       |
 | 14/10/2024 |         |       |
-| 21/10/2024 |Adam Breitholtz|       |
+| 21/10/2024 |Adam Breitholtz| [Abstract](talks/adam_breitholz.md)   |
 | 28/10/2024 |Jack Sandberg|       |
 | 04/11/2024 |Ahmet Zahid Balcıoğlu <br>_Chalmers_|    TBA    |
 | 11/11/2024 |Jan Gerken|       |
 | 18/11/2024 |Alessandro Margueritte|       |
 | 25/11/2024 |Deepthi Pathare         |       |
 | 02/12/2024 |Emma Rydholm|       |
-| 09/12/2024 |David Bosch|       |
+| 09/12/2024 |David Bosch|  [Abstract](talks/david_bosch.md)     |
 | 16/12/2024 |         |       |
 | 23/12/2024 |No Seminar         |   No Seminar    |
 | 30/12/2024 |No Seminar    |  No Seminar     |
