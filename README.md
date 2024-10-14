@@ -31,7 +31,7 @@ Yes, there is a Zoom Room:
 
 ## Schedule
 
-|       Date | Speaker | Title |
+|       Date | Speaker | Topic|
 |-----------:|--------:|------:|
 | 02/09/2024 |Alexandre Graell I Amat <br>_Chalmers_|       |
 | 09/09/2024 |         |       |
