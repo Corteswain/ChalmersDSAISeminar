@@ -42,7 +42,7 @@ Yes, there is a Zoom Room:
 | 14/10/2024 |         |       |
 | 21/10/2024 |Adam Breitholtz| [Abstract](talks/adam_breitholz.md)   |
 | 28/10/2024 |Jack Sandberg|       |
-| 04/11/2024 |Ahmet Zahid Balcıoğlu <br>_Chalmers_|    TBA    |
+| 04/11/2024 |     |        |
 | 11/11/2024 |Jan Gerken|       |
 | 18/11/2024 |Alessandro Margueritte|       |
 | 25/11/2024 |Deepthi Pathare         |       |
