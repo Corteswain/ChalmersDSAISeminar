@@ -15,7 +15,7 @@ Here lies the Schedule of the Seminar Series of the [Data Science and Artificial
 Join us as we delve into the depths of machine learning, uncover the mysteries of predictive analytics, and navigate the evolving landscapes of artificial intelligence.
 
 **When:** 14:00 -15:00 most Mondays *See Schedule* <br>
-**Where:** Analysen Room - Edit Building - Campus Johanneberg
+**Where:** Analysen Room - EDIT Building - Campus Johanneberg
 
 ## Can I present?
 
@@ -25,8 +25,8 @@ Of course. Check the schedule below for empty slots and contact [Richard](https:
 
 Yes, there is a Zoom Room:
 
-**Link:** <br>
-**Password:**
+**Link:** https://chalmers.zoom.us/j/64432575085
+**Password:** mondays24
 
 
 ## Schedule
