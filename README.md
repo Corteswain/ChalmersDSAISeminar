@@ -44,7 +44,7 @@ Yes, there is a Zoom Room:
 | 28/10/2024 |Jack Sandberg|       |
 | 04/11/2024 |     |        |
 | 11/11/2024 |Jan Gerken|       |
-| 18/11/2024 |Alessandro Margueritte|       |
+| 18/11/2024 ||       |
 | 25/11/2024 |Deepthi Pathare         |       |
 | 02/12/2024 |Emma Rydholm|       |
 | 09/12/2024 |David Bosch|  [Abstract](talks/david_bosch.md)     |
