@@ -45,14 +45,14 @@ Yes, there is a Zoom Room:
 | 04/11/2024 |     |        |
 | 11/11/2024 |Jan Gerken|       |
 | 18/11/2024 | Ahmet Zahid Balcıoğlu |       |
-| 25/11/2024 |Deepthi Pathare         |       |
-| 02/12/2024 |Emma Rydholm|       |
+| 25/11/2024 |Flavio Nicoletti (visiting PostDoc with Stefano Sarao Mannelli)         |       |
+| 02/12/2024 |Deepthi Pathare |       |
 | 09/12/2024 |David Bosch|  [Abstract](talks/david_bosch.md)     |
 | 16/12/2024 |         |       |
 | 23/12/2024 |No Seminar         |   No Seminar    |
 | 30/12/2024 |No Seminar    |  No Seminar     |
 | 06/01/2025 |No Seminar    |   No Seminar   |
-| 13/01/2025 |         |       |
+| 13/01/2025 | Emma Rydholm    |       |
 | 20/01/2025 |         |       |
 | 27/01/2025 | Rocío Mercado <br>_Chalmers_   |  *Halftime Eval.*     |
 | 03/02/2025 |         |       |
