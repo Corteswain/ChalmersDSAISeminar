@@ -52,8 +52,8 @@ Yes, there is a Zoom Room:
 | 23/12/2024 |No Seminar         |   No Seminar    |
 | 30/12/2024 |No Seminar    |  No Seminar     |
 | 06/01/2025 |No Seminar    |   No Seminar   |
-| 13/01/2025 | Emma Rydholm    |       |
-| 20/01/2025 |         |       |
+| 13/01/2025 |     |       |
+| 20/01/2025 | Emma Rydholm        |       |
 | 27/01/2025 | Rocío Mercado <br>_Chalmers_   |  *Halftime Eval.*     |
 | 03/02/2025 |         |       |
 | 10/02/2025 |Jan Gerken |       |
