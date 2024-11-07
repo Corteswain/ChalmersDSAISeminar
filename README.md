@@ -46,7 +46,7 @@ Yes, there is a Zoom Room:
 | 11/11/2024 ||       |
 | 18/11/2024 | Ahmet Zahid Balcıoğlu |       |
 | 25/11/2024 |Flavio Nicoletti (visiting PostDoc with Stefano Sarao Mannelli)         |       |
-| 02/12/2024 |Deepthi Pathare |       |
+| 02/12/2024 |Arvid Sjölander | guest speaker with Fredrik Johanson   |
 | 09/12/2024 |David Bosch|  [Abstract](talks/david_bosch.md)     |
 | 16/12/2024 |         |       |
 | 23/12/2024 |No Seminar         |   No Seminar    |
@@ -56,7 +56,7 @@ Yes, there is a Zoom Room:
 | 20/01/2025 |         |       |
 | 27/01/2025 | Rocío Mercado <br>_Chalmers_   |  *Halftime Eval.*     |
 | 03/02/2025 |         |       |
-| 10/02/2025 |         |       |
+| 10/02/2025 |Jan Gerken |       |
 | 17/02/2025 |         |       |
 | 24/02/2025 |         |       |
 | 03/03/2025 |         |       |
