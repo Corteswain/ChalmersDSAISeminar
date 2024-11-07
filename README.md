@@ -43,7 +43,7 @@ Yes, there is a Zoom Room:
 | 21/10/2024 |Adam Breitholtz| [Abstract](talks/adam_breitholz.md)   |
 | 28/10/2024 |Jack Sandberg|  Gaussian process bandits for online energy-efficient navigation     |
 | 04/11/2024 |     |        |
-| 11/11/2024 |Jan Gerken|       |
+| 11/11/2024 ||       |
 | 18/11/2024 | Ahmet Zahid Balcıoğlu |       |
 | 25/11/2024 |Flavio Nicoletti (visiting PostDoc with Stefano Sarao Mannelli)         |       |
 | 02/12/2024 |Deepthi Pathare |       |
