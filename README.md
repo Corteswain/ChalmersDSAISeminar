@@ -55,7 +55,7 @@ Yes, there is a Zoom Room:
 | 13/01/2025 |     |       |
 | 20/01/2025 | Emma Rydholm        |       |
 | 27/01/2025 | Rocío Mercado <br>_Chalmers_   |  *Halftime Eval.*     |
-| 03/02/2025 |         |       |
+| 03/02/2025 | Deepthi Pathare |       |
 | 10/02/2025 |Jan Gerken |       |
 | 17/02/2025 |         |       |
 | 24/02/2025 |         |       |
