@@ -53,11 +53,11 @@ Yes, there is a Zoom Room:
 | 30/12/2024 |No Seminar    |  No Seminar     |
 | 06/01/2025 |No Seminar    |   No Seminar   |
 | 13/01/2025 |     |       |
-| 20/01/2025 | Emma Rydholm        |       |
+| 20/01/2025 | Guest Speaker invited by Nicolas Audinet |       |
 | 27/01/2025 | Rocío Mercado <br>_Chalmers_   |  *Halftime Eval.*     |
 | 03/02/2025 | Deepthi Pathare |       |
-| 10/02/2025 |Jan Gerken |       |
-| 17/02/2025 |         |       |
+| 10/02/2025 | Emma Grangqvist|       |
+| 17/02/2025 |Jan Gerken         |       |
 | 24/02/2025 |         |       |
 | 03/03/2025 |         |       |
 | 10/03/2025 |         |       |
