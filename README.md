@@ -58,7 +58,7 @@ Yes, there is a Zoom Room:
 | 03/02/2025 | Deepthi Pathare |       |
 | 10/02/2025 | Emma Grangqvist|       |
 | 17/02/2025 |Jan Gerken         |       |
-| 24/02/2025 |         |       |
+| 24/02/2025 |N M Anoop Krishnan |       |
 | 03/03/2025 |         |       |
 | 10/03/2025 |         |       |
 | 17/03/2025 |         |       |
