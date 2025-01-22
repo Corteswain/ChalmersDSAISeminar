@@ -66,9 +66,9 @@ Yes, there is a Zoom Room:
 | 31/03/2025 | Lena Stempfle |       |
 | 07/04/2025 | Daniel Brunnsåker |       |
 | 14/04/2025 | Firooz Shahriari Mehr  |       |
-| 21/04/2025 | David Bosch |       |
+| 21/04/2025 |   |       |
 | 28/04/2025 | Lovisa Hagström |       |
 | 05/05/2025 | Sólrún_Einarsdóttir  |       |
 | 12/05/2025 | Mehrdad Farahani |       |
-| 19/05/2025 | Linus Aronson |       |
+| 19/05/2025 |  |       |
 | 26/05/2025 | Markus Pettersson |       |
