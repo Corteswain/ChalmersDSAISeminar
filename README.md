@@ -59,9 +59,9 @@ Yes, there is a Zoom Room:
 | 10/02/2025 | Emma Grangqvist|       |
 | 17/02/2025 |Jan Gerken         |       |
 | 24/02/2025 |N M Anoop Krishnan |       |
-| 03/03/2025 | Sunita Sarawagi    |       |
-| 10/03/2025 |Oana Geman |       |
-| 17/03/2025 |         |       |
+| 03/03/2025 |     |       |
+| 10/03/2025 | Sunita Sarawagi|       |
+| 17/03/2025 | Oana Geman |       |
 | 24/03/2025 |         |       |
 | 31/03/2025 |         |       |
 | 07/04/2025 |         |       |
