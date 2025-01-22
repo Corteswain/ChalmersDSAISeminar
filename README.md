@@ -62,13 +62,13 @@ Yes, there is a Zoom Room:
 | 03/03/2025 |     |       |
 | 10/03/2025 | Sunita Sarawagi|       |
 | 17/03/2025 | Oana Geman |       |
-| 24/03/2025 |         |       |
-| 31/03/2025 |         |       |
-| 07/04/2025 |         |       |
-| 14/04/2025 |         |       |
-| 21/04/2025 |         |       |
-| 28/04/2025 |         |       |
-| 05/05/2025 |         |       |
-| 12/05/2025 |         |       |
-| 19/05/2025 |         |       |
-| 26/05/2025 |         |       |
+| 24/03/2025 | Denitsa Saynova |       |
+| 31/03/2025 | Lena Stempfle |       |
+| 07/04/2025 | Daniel Brunnsåker |       |
+| 14/04/2025 | Firooz Shahriari Mehr  |       |
+| 21/04/2025 | David Bosch |       |
+| 28/04/2025 | Lovisa Hagström |       |
+| 05/05/2025 | Sólrún_Einarsdóttir  |       |
+| 12/05/2025 | Mehrdad Farahani |       |
+| 19/05/2025 | Linus Aronson |       |
+| 26/05/2025 | Markus Pettersson |       |
