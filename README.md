@@ -64,8 +64,8 @@ Yes, there is a Zoom Room:
 | 10/03/2025 | Sunita Sarawagi|       |
 | 17/03/2025 | Oana Geman  (unconfirmed) |       |
 | 24/03/2025 | Denitsa Saynova (unconfirmed) |       |
-| 31/03/2025 | Lena Stempfle (unconfirmed) |       |
-| 07/04/2025 | |       |
+| 31/03/2025 | |       |
+| 07/04/2025 | Lena Stempfle |       |
 | 14/04/2025 | Firooz Shahriari Mehr (unconfirmed) |       |
 | 21/04/2025 | Daniel Brunnsåker (unconfirmed)   |       |
 | 28/04/2025 | Lovisa Hagström (unconfirmed) |       |
