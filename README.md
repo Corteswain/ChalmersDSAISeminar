@@ -60,7 +60,7 @@ Yes, there is a Zoom Room:
 | 17/02/2025 |Jan Gerken         |       |
 | 24/02/2025 |N M Anoop Krishnan |       |
 | 26/02/2025 |Shalom Lappin | OFF-SCHEDULE! THIS IS A WEDNESDAY!       |
-| 03/03/2025 |     |       |
+| 03/03/2025 | Jan Gerken <br>_Chalmers_ | [Emergent Equivariance in Deep Ensembles](talks/jan_gerken.md) |
 | 10/03/2025 | Sunita Sarawagi|       |
 | 17/03/2025 | Oana Geman |       |
 | 24/03/2025 | Denitsa Saynova |       |
