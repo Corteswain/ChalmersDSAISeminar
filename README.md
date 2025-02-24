@@ -57,10 +57,10 @@ Yes, there is a Zoom Room:
 | 27/01/2025 | Rocío Mercado <br>_Chalmers_   |  *Halftime Eval.*     |
 | 03/02/2025 | Deepthi Pathare |       |
 | 10/02/2025 | Emma Grangqvist|       |
-| 17/02/2025 |Jan Gerken         |       |
+| 17/02/2025 |         |       |
 | 24/02/2025 |N M Anoop Krishnan |       |
 | 26/02/2025 |Shalom Lappin | OFF-SCHEDULE! THIS IS A WEDNESDAY!       |
-| 03/03/2025 |     |       |
+| 03/03/2025 | Jan Gerken    |    |
 | 10/03/2025 | Sunita Sarawagi|       |
 | 17/03/2025 | Oana Geman |       |
 | 24/03/2025 | Denitsa Saynova |       |
