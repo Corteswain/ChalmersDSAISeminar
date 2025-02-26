@@ -25,8 +25,8 @@ Of course. Check the schedule below for empty slots and contact [Richard](https:
 
 Yes, there is a Zoom Room:
 
-**Link:** https://chalmers.zoom.us/j/64432575085
-**Password:** mondays24
+**Link:** [https://chalmers.zoom.us/j/64432575085](https://chalmers.zoom.us/j/69140014938)
+**Password:** mondays
 
 
 ## Schedule
