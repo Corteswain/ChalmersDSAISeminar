@@ -62,7 +62,7 @@ Yes, there is a Zoom Room:
 | 26/02/2025 |Shalom Lappin | Starting at 14:30       |
 | 03/03/2025 | Jan Gerken <br>_Chalmers_ | [Emergent Equivariance in Deep Ensembles](talks/jan_gerken.md) |
 | 10/03/2025 | Sunita Sarawagi|       |
-| 17/03/2025 | Oana Geman |       |
+| 17/03/2025 | Sergey Zuev |       |
 | 24/03/2025 | Denitsa Saynova |       |
 | 31/03/2025 | |       |
 | 07/04/2025 | Lena Stempfle |       |
