@@ -64,7 +64,7 @@ Yes, there is a Zoom Room:
 | 10/03/2025 | Sunita Sarawagi|       |
 | 17/03/2025 | Sergey Zuev |       |
 | 24/03/2025 | Denitsa Saynova |       |
-| 31/03/2025 | |       |
+| 31/03/2025 |George Granberry |       |
 | 07/04/2025 | Lena Stempfle |       |
 | 14/04/2025 | Firooz Shahriari Mehr (unconfirmed) |       |
 | 21/04/2025 | Daniel Brunnsåker  |       |
