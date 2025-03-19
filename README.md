@@ -66,7 +66,7 @@ Yes, there is a Zoom Room:
 | 24/03/2025 | Denitsa Saynova |       |
 | 31/03/2025 |George Granberry |       |
 | 07/04/2025 | Lena Stempfle |       |
-| 14/04/2025 |  |       |
+| 14/04/2025 | Ryley McConkey  |       |
 | 21/04/2025 | Daniel Brunnsåker  |       |
 | 28/04/2025 | Lovisa Hagström (unconfirmed) |       |
 | 05/05/2025 | Sólrún_Einarsdóttir (unconfirmed)  |       |
