@@ -63,12 +63,12 @@ Yes, there is a Zoom Room:
 | 03/03/2025 | Jan Gerken <br>_Chalmers_ | [Emergent Equivariance in Deep Ensembles](talks/jan_gerken.md) |
 | 10/03/2025 | Sunita Sarawagi|       |
 | 17/03/2025 | Sergey Zuev |       |
-| 24/03/2025 | Denitsa Saynova |       |
-| 31/03/2025 |George Granberry |       |
+| 24/03/2025 | Denitsa Saynova | Identifying Non-Replicable Social Science Studies with Language Models |
+| 31/03/2025 |George Granberry | Why are are talking about Deepseek      |
 | 07/04/2025 | Lena Stempfle |       |
-| 14/04/2025 | Ryley McConkey  |       |
+| 14/04/2025 | Ryley McConkey  | On rotational equivariance as an inductive bias in machine learning for fluids|
 | 21/04/2025 | Daniel Brunnsåker  |       |
-| 28/04/2025 | Lovisa Hagström (unconfirmed) |       |
+| 28/04/2025 | Lovisa Hagström |       |
 | 05/05/2025 | Sólrún_Einarsdóttir (unconfirmed)  |       |
 | 12/05/2025 | Mehrdad Farahani (unconfirmed) |       |
 | 19/05/2025 |  |       |
