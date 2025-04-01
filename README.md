@@ -69,7 +69,7 @@ Yes, there is a Zoom Room:
 | 14/04/2025 | Ryley McConkey  | On rotational equivariance as an inductive bias in machine learning for fluids|
 | 21/04/2025 | Daniel Brunnsåker  |       |
 | 28/04/2025 | Lovisa Hagström |       |
-| 05/05/2025 | Sólrún_Einarsdóttir (unconfirmed)  |       |
+| 05/05/2025 |   |       |
 | 12/05/2025 | |       |
-| 19/05/2025 |  |       |
+| 19/05/2025 | Sólrún_Einarsdóttir |       |
 | 26/05/2025 | Markus Pettersson |       |
