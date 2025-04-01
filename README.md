@@ -70,6 +70,6 @@ Yes, there is a Zoom Room:
 | 21/04/2025 | Daniel Brunnsåker  |       |
 | 28/04/2025 | Lovisa Hagström |       |
 | 05/05/2025 | Sólrún_Einarsdóttir (unconfirmed)  |       |
-| 12/05/2025 | Mehrdad Farahani (unconfirmed) |       |
+| 12/05/2025 | |       |
 | 19/05/2025 |  |       |
 | 26/05/2025 | Markus Pettersson |       |
