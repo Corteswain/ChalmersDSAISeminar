@@ -72,4 +72,4 @@ Yes, there is a Zoom Room:
 | 05/05/2025 | Sólrún_Einarsdóttir (unconfirmed)  |       |
 | 12/05/2025 | Mehrdad Farahani (unconfirmed) |       |
 | 19/05/2025 |  |       |
-| 26/05/2025 | Markus Pettersson (unconfirmed) |       |
+| 26/05/2025 | Markus Pettersson |       |
