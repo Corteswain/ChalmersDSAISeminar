@@ -67,9 +67,9 @@ Yes, there is a Zoom Room:
 | 31/03/2025 |George Granberry | Why are are talking about Deepseek      |
 | 07/04/2025 | Lena Stempfle |       |
 | 14/04/2025 | Ryley McConkey  | On rotational equivariance as an inductive bias in machine learning for fluids|
-| 21/04/2025 | Daniel Brunnsåker  |       |
+| 21/04/2025 |  |       |
 | 28/04/2025 | Lovisa Hagström |       |
 | 05/05/2025 |   |       |
-| 12/05/2025 | |       |
+| 12/05/2025 | Daniel Brunnsåker  |       |
 | 19/05/2025 | Sólrún_Einarsdóttir |       |
 | 26/05/2025 | Markus Pettersson |       |
