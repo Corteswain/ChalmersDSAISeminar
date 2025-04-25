@@ -73,3 +73,7 @@ Yes, there is a Zoom Room:
 | 12/05/2025 | Daniel Brunnsåker  |       |
 | 19/05/2025 | Sólrún_Einarsdóttir |       |
 | 26/05/2025 | Markus Pettersson |       |
+| 02/06/2025 | TBD |       |
+| 09/06/2025 | TBD |       |
+| 16/06/2025 | TBD |       |
+| 09/06/2025 | SUMMER BREAK |       |
