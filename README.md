@@ -73,7 +73,7 @@ Yes, there is a Zoom Room:
 | 12/05/2025 | Daniel Brunnsåker  |       |
 | 19/05/2025 | Sólrún_Einarsdóttir |       |
 | 26/05/2025 | Markus Pettersson |       |
-| 02/06/2025 | TBD |       |
+| 02/06/2025 | Flavio Chierichetti | A New Impossibility Result for Online Bipartite Matching Problems  ( https://arxiv.org/abs/2504.14251 )    |
 | 09/06/2025 | TBD |       |
 | 16/06/2025 | TBD |       |
 | 09/06/2025 | SUMMER BREAK |       |
