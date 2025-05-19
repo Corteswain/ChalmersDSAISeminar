@@ -74,6 +74,6 @@ Yes, there is a Zoom Room:
 | 19/05/2025 | Sólrún_Einarsdóttir |       |
 | 26/05/2025 | Markus Pettersson |       |
 | 02/06/2025 | Flavio Chierichetti | A New Impossibility Result for Online Bipartite Matching Problems  ( https://arxiv.org/abs/2504.14251 )    |
-| 09/06/2025 | TBD |       |
+| 09/06/2025 | Michael Hahn |       |
 | 16/06/2025 | Loek van Rossem | Algorithm Development in Neural Networks: Insights from the Streaming Parity |
 | 09/06/2025 | SUMMER BREAK |       |
