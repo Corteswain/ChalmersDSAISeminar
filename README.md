@@ -19,13 +19,13 @@ Join us as we delve into the depths of machine learning, uncover the mysteries o
 
 ## Can I present?
 
-Of course. Check the schedule below for empty slots and contact [Richard](https://www.chalmers.se/personer/ricbec/). Janosch is gone.
+Of course. Check the schedule below for empty slots and contact [Richard](https://www.chalmers.se/personer/ricbec/), preferrably via Slack.
 
 ## Can I join online?
 
 Yes, there is a Zoom Room:
 
-**Link:** [https://chalmers.zoom.us/j/64432575085](https://chalmers.zoom.us/j/69140014938)
+**Link:** [https://chalmers.zoom.us/j/69140014938]([https://chalmers.zoom.us/j/69140014938](https://chalmers.zoom.us/j/69140014938)
 **Password:** mondays
 
 
