@@ -34,13 +34,13 @@ Yes, there is a Zoom Room:
 |       Date | Speaker | Topic|
 |-----------:|--------:|------:|
 | 01/09/2025 | Moa Johansson| ICML Impressions       |
-| 08/09/2025 | Richard Johansson et al. | ACL Impressions      |
+| 08/09/2025 | Amer Mustajbasic |       |
 | 15/09/2025 | Stefano Ribes | PROTAC-Splitter: A Machine Learning Framework for Automated Identification of PROTAC Substructures            |
-| 22/09/2025 | |
+| 22/09/2025 |Richard Johansson et al. | ACL Impressions|
 | 29/09/2025 ||       |
 | 06/10/2025 |         |       |
 | 13/10/2025 |         |       |
 | 20/10/2025 ||   |
 | 27/10/2025 |   |
-| 03/11/2025 |     |        |
+| 03/11/2025 | Amer Mustajbasic    |        |
 | 10/11/2025 ||       |
