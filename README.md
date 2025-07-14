@@ -34,7 +34,7 @@ Yes, there is a Zoom Room:
 |       Date | Speaker | Topic|
 |-----------:|--------:|------:|
 | 01/09/2025 | Moa Johansson| ICML Impressions       |
-| 08/09/2025 | Amer Mustajbasic |       |
+| 08/09/2025 | Amer Mustajbasic | SMAB: Simple Multimodal Attention for Effective BEV Fusion      |
 | 15/09/2025 | Stefano Ribes | PROTAC-Splitter: A Machine Learning Framework for Automated Identification of PROTAC Substructures            |
 | 22/09/2025 |Richard Johansson et al. | ACL Impressions|
 | 29/09/2025 ||       |
@@ -42,5 +42,5 @@ Yes, there is a Zoom Room:
 | 13/10/2025 |         |       |
 | 20/10/2025 ||   |
 | 27/10/2025 |   |
-| 03/11/2025 | Amer Mustajbasic    |        |
+| 03/11/2025 | Amer Mustajbasic    | Guided Gaussians: Enhancing 3D Occupancy Estimation with Sparse Sensor Prior       |
 | 10/11/2025 ||       |
