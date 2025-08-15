@@ -31,17 +31,17 @@ Yes, there is a Zoom Room:
 
 ## Schedule
 
-|       Date | Speaker | Topic|
-|-----------:|--------:|------:|
-| 25/08/2025 | Moa Johansson| ICML Impressions       |
-| 01/09/2025 | ||
-| 08/09/2025 | Amer Mustajbasic | SMAB: Simple Multimodal Attention for Effective BEV Fusion      |
-| 15/09/2025 | Stefano Ribes | PROTAC-Splitter: A Machine Learning Framework for Automated Identification of PROTAC Substructures            |
-| 22/09/2025 |Richard Johansson et al. | ACL Impressions|
-| 29/09/2025 ||       |
-| 06/10/2025 |         |       |
-| 13/10/2025 |         |       |
-| 20/10/2025 | [Alexandros Tzanetos](https://ju.se/personinfo.html?sign=TZAALE&lang=en) | Evolutionary Computation (EC) and Optimization |
-| 27/10/2025 |   |
-| 03/11/2025 | Amer Mustajbasic    | Guided Gaussians: Enhancing 3D Occupancy Estimation with Sparse Sensor Prior       |
-| 10/11/2025 ||       |
+|       Date | Speaker | Topic| Note|
+|-----------:|--------:|------:|-----:|
+| 25/08/2025 | Moa Johansson| ICML Impressions       ||
+| 01/09/2025 | |||
+| 08/09/2025 | Amer Mustajbasic | SMAB: Simple Multimodal Attention for Effective BEV Fusion      | In E2 Room 3364 EDIT (opposite Analysen) |
+| 15/09/2025 | Stefano Ribes | PROTAC-Splitter: A Machine Learning Framework for Automated Identification of PROTAC Substructures            ||
+| 22/09/2025 |Richard Johansson et al. | ACL Impressions||
+| 29/09/2025 ||       ||
+| 06/10/2025 |         |       ||
+| 13/10/2025 |         |       ||
+| 20/10/2025 | [Alexandros Tzanetos](https://ju.se/personinfo.html?sign=TZAALE&lang=en) | Evolutionary Computation (EC) and Optimization ||
+| 27/10/2025 |   ||
+| 03/11/2025 | Amer Mustajbasic    | Guided Gaussians: Enhancing 3D Occupancy Estimation with Sparse Sensor Prior       ||
+| 10/11/2025 ||       ||
