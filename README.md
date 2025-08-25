@@ -37,9 +37,9 @@ Yes, there is a Zoom Room:
 | 01/09/2025 | |||
 | 08/09/2025 | Amer Mustajbasic | SMAB: Simple Multimodal Attention for Effective BEV Fusion      | In E2 Room 3364 EDIT (opposite Analysen) |
 | 15/09/2025 | Stefano Ribes | PROTAC-Splitter: A Machine Learning Framework for Automated Identification of PROTAC Substructures            ||
-| 22/09/2025 |Richard Johansson et al. | ACL Impressions||
-| 29/09/2025 ||       ||
-| 06/10/2025 |         |       ||
+| 22/09/2025 | Richard Johansson et al. | ACL Impressions||
+| 29/09/2025 | Nikolas Faroß | TBD      ||
+| 06/10/2025 | Marc Wanner | TBD       ||
 | 13/10/2025 |         |       ||
 | 20/10/2025 | [Alexandros Tzanetos](https://ju.se/personinfo.html?sign=TZAALE&lang=en) | Evolutionary Computation (EC) and Optimization ||
 | 27/10/2025 |   ||
@@ -49,6 +49,6 @@ Yes, there is a Zoom Room:
 | 24/11/2025 |  |        ||
 | 01/12/2025 |  |        ||
 | 08/12/2025 |  |        ||
-| 15/11/2025 |  |        ||
-| 22/11/2025 |  |        ||
-| 29/11/2025 |  |        ||
+| 15/12/2025 |  |        ||
+| 22/12/2025 |  |        ||
+| 29/12/2025 |  |        ||
