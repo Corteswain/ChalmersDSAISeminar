@@ -43,5 +43,5 @@ Yes, there is a Zoom Room:
 | 13/10/2025 |         |       ||
 | 20/10/2025 | [Alexandros Tzanetos](https://ju.se/personinfo.html?sign=TZAALE&lang=en) | Evolutionary Computation (EC) and Optimization ||
 | 27/10/2025 |   ||
-| 03/11/2025 | Amer Mustajbasic    | Guided Gaussians: Enhancing 3D Occupancy Estimation with Sparse Sensor Prior       ||
-| 10/11/2025 ||       ||
+| 03/11/2025 | Amer Mustajbasic | Guided Gaussians: Enhancing 3D Occupancy Estimation with Sparse Sensor Prior       ||
+| 10/11/2025 | Filip Kronström | TBD       ||
