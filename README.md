@@ -45,3 +45,10 @@ Yes, there is a Zoom Room:
 | 27/10/2025 |   ||
 | 03/11/2025 | Amer Mustajbasic | Guided Gaussians: Enhancing 3D Occupancy Estimation with Sparse Sensor Prior       ||
 | 10/11/2025 | Filip Kronström | TBD       ||
+| 17/11/2025 |  |        ||
+| 24/11/2025 |  |        ||
+| 01/12/2025 |  |        ||
+| 08/12/2025 |  |        ||
+| 15/11/2025 |  |        ||
+| 22/11/2025 |  |        ||
+| 29/11/2025 |  |        ||
