@@ -39,7 +39,7 @@ Yes, there is a Zoom Room:
 | 15/09/2025 | Stefano Ribes | PROTAC-Splitter: A Machine Learning Framework for Automated Identification of PROTAC Substructures            ||
 | 22/09/2025 | Richard Johansson et al. | ACL Impressions||
 | 29/09/2025 | Nikolas Faroß | TBD      ||
-| 06/10/2025 | Marc Wanner | TBD       ||
+| 06/10/2025 | Marc Wanner | Recap of European Summer School of Quanutm AI  ||
 | 13/10/2025 |         |       ||
 | 20/10/2025 | [Alexandros Tzanetos](https://ju.se/personinfo.html?sign=TZAALE&lang=en) | Evolutionary Computation (EC) and Optimization ||
 | 27/10/2025 |   ||
