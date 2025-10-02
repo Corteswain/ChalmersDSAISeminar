@@ -45,7 +45,7 @@ Yes, there is a Zoom Room:
 | 27/10/2025 | Nick Yue  | Expanding the Action Space of LLMs in Reinforcement Learning (preliminary title)|
 | 03/11/2025 | Amer Mustajbasic | Guided Gaussians: Enhancing 3D Occupancy Estimation with Sparse Sensor Prior       ||
 | 10/11/2025 | Filip Kronström | TBD       ||
-| 17/11/2025 |  |        ||
+| 17/11/2025 | James Bailie  |  TBD      ||
 | 24/11/2025 |  |        ||
 | 01/12/2025 |  |        ||
 | 08/12/2025 |  |        ||
