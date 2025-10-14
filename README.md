@@ -42,13 +42,13 @@ Yes, there is a Zoom Room:
 | 06/10/2025 | Marc Wanner | Recap of European Summer School of Quanutm AI  ||
 | 13/10/2025 |         |       ||
 | 20/10/2025 | [Alexandros Tzanetos](https://ju.se/personinfo.html?sign=TZAALE&lang=en) | Evolutionary Computation (EC) and Optimization ||
-| 27/10/2025 | Nick Yue  | Expanding the Action Space of LLMs in Reinforcement Learning (preliminary title)|
+| 27/10/2025 | Devdatt's guest | ||
 | 03/11/2025 | Amer Mustajbasic | Guided Gaussians: Enhancing 3D Occupancy Estimation with Sparse Sensor Prior       ||
-| 10/11/2025 | Filip Kronström | TBD       ||
+| 10/11/2025 | Stefano's Guest | TBD       ||
 | 17/11/2025 | James Bailie  |  TBD      ||
-| 24/11/2025 | Mattias Appelgren  |        ||
-| 01/12/2025 |  |        ||
+| 24/11/2025 | Mattias Appelgren  |  TBD      ||
+| 01/12/2025 | Filip Kronström |  TBD   ||
 | 08/12/2025 |  |        ||
-| 15/12/2025 |  |        ||
+| 15/12/2025 |  Nick Yue  | Expanding the Action Space of LLMs in Reinforcement Learning (preliminary title)  ||
 | 22/12/2025 |  |        ||
 | 29/12/2025 |  |        ||
