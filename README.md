@@ -51,3 +51,9 @@ Yes, there is a Zoom Room:
 | 08/12/2025 | Kivanc's guest | TBD       ||
 | 15/12/2025 | Winter break| ||
 | 12/01/2026 | James Bailie | TBD ||
+| 19/01/2026 |  | ||
+| 26/01/2026 | Filip Kronström(?) | TBD ||
+| 02/02/2026 | |  ||
+| 09/02/2026 | |  ||
+| 16/02/2026 | |  ||
+| 23/02/2026 | |  ||
