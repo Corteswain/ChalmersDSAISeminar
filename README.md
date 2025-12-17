@@ -53,7 +53,7 @@ Yes, there is a Zoom Room:
 | 12/01/2026 | James Bailie | TBD ||
 | 19/01/2026 | Simon Olsson | ||
 | 26/01/2026 | Filip Kronström(?) | TBD ||
-| 02/02/2026 | |  ||
+| 02/02/2026 | Reserved by Lena |  ||
 | 09/02/2026 | |  ||
 | 16/02/2026 | |  ||
 | 23/02/2026 | |  ||
