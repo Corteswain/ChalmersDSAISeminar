@@ -47,8 +47,8 @@ Yes, there is a Zoom Room:
 | 10/11/2025 | Yedi Zhang | TBD       ||
 | 17/11/2025 | Nick Yue  | Expanding the Action Space of LLMs in Reinforcement Learning (preliminary title)     ||
 | 24/11/2025 | Mattias Appelgren  |  Perspective In Language Games      ||
-| 01/12/2025 | Filip Kronström |  TBD   ||
-| 08/12/2025 | Kivanc's guest | TBD       ||
+| 01/12/2025 | |  ||
+| 08/12/2025 | |  ||
 | 15/12/2025 | Winter break| ||
 | 12/01/2026 | James Bailie | TBD ||
 | 19/01/2026 | Simon Olsson | ||
