@@ -52,6 +52,7 @@ Yes, there is a Zoom Room:
 | 15/12/2025 | Winter break| ||
 | 12/01/2026 | James Bailie | TBD ||
 | 19/01/2026 | Simon Olsson | ||
+| 22/01/2026 | Alasdair Paren | Security Vulnerabilities in LM-based AI agents ||
 | 26/01/2026 | Filip Kronström(?) | TBD ||
 | 02/02/2026 | Sana Tonekaboni |  ||
 | 09/02/2026 | |  ||
