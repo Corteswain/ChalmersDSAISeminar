@@ -53,9 +53,9 @@ Yes, there is a Zoom Room:
 | 12/01/2026 | James Bailie | TBD ||
 | 19/01/2026 | Simon Olsson | ||
 | 22/01/2026 | Alasdair Paren | Security Vulnerabilities in LM-based AI agents ||
-| 26/01/2026 | Filip Kronström(?) | TBD ||
+| 26/01/2026 |  | TBD ||
 | 02/02/2026 | Sana Tonekaboni |  ||
-| 09/02/2026 | |  ||
+| 09/02/2026 | Filip Kronström |  ||
 | 16/02/2026 | |  ||
 | 23/02/2026 |Matti Karppa |Engineering Compressed Matrix Multiplication using the Fast Walsh-Hadamard Transform  ||
 | 02/03/2026 | |  ||
