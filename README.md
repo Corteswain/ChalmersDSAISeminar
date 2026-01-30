@@ -58,7 +58,7 @@ Yes, there is a Zoom Room:
 | 09/02/2026 | Filip Kronström |  ||
 | 16/02/2026 | |  ||
 | 23/02/2026 |Matti Karppa |Engineering Compressed Matrix Multiplication using the Fast Walsh-Hadamard Transform  ||
-| 02/03/2026 | |  ||
+| 02/03/2026 |Chelsea Sidrane | verification of discrete-time neural networks  ||
 | 09/03/2026 | |  ||
 | 16/03/2026 | |  ||
 | 23/03/2026 | |  ||
