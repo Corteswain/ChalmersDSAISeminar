@@ -54,7 +54,7 @@ Yes, there is a Zoom Room:
 | 19/01/2026 | Simon Olsson | ||
 | 22/01/2026 | Alasdair Paren | Security Vulnerabilities in LM-based AI agents ||
 | 26/01/2026 |  | TBD ||
-| 02/02/2026 | Sana Tonekaboni |  ||
+| 02/02/2026 | Sana Tonekaboni | Generalist Foundation Models for Safe and Reliable Clinical Decision Support  ||
 | 09/02/2026 | Filip Kronström |  ||
 | 16/02/2026 | |  ||
 | 23/02/2026 |Matti Karppa |Engineering Compressed Matrix Multiplication using the Fast Walsh-Hadamard Transform  ||
