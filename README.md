@@ -60,7 +60,7 @@ Yes, there is a Zoom Room:
 | 23/02/2026 |Matti Karppa |Engineering Compressed Matrix Multiplication using the Fast Walsh-Hadamard Transform  ||
 | 02/03/2026 |Chelsea Sidrane | verification of discrete-time neural networks  ||
 | 09/03/2026 | |  ||
-| 16/03/2026 | |  ||
+| 16/03/2026 | KIm Jörgensen |Semantic IDs and Generative Recommender systems  ||
 | 23/03/2026 | |  ||
 | 30/03/2026 | |  ||
 | 06/04/2026 | Guy Axelrod |  ||
