@@ -64,7 +64,7 @@ Yes, there is a Zoom Room:
 | 23/03/2026 | Daniel Bisig | Kivanc's guest  ||
 | 30/03/2026 | |  ||
 | 06/04/2026 | Guy Axelrod |  ||
-| 13/04/2026 | |  ||
+| 13/04/2026 | Devdatt Dubhashi | AI for Math and Open Science Workshop   ||
 | 20/04/2026 | TENTATIVE: Josef Urban | TBD  ||
 | 27/04/2026 | |  ||
 | 04/05/2026 | |  ||
