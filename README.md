@@ -61,8 +61,8 @@ Yes, there is a Zoom Room:
 | 02/03/2026 |Chelsea Sidrane | verification of discrete-time neural networks  ||
 | 09/03/2026 | |  ||
 | 16/03/2026 | Kim Jörgensen |Semantic IDs and Generative Recommender systems  ||
-| 23/03/2026 | Daniel Bisig | Kivanc's guest  ||
-| 30/03/2026 | |  ||
+| 23/03/2026 |  |   ||
+| 30/03/2026 | Daniel Bisig | Kivanc's guest ||
 | 06/04/2026 | Guy Axelrod |  ||
 | 13/04/2026 | Devdatt Dubhashi | AI for Math and Open Science Workshop   ||
 | 20/04/2026 | TENTATIVE: Josef Urban | TBD  ||
