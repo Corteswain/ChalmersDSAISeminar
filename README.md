@@ -66,7 +66,7 @@ Yes, there is a Zoom Room:
 | 06/04/2026 | Guy Axelrod |  ||
 | 13/04/2026 | Devdatt Dubhashi | AI for Math and Open Science Workshop   ||
 | 20/04/2026 | TENTATIVE: Josef Urban | TBD  ||
-| 27/04/2026 | |  ||
+| 27/04/2026 | Xuechen Liu |  ||
 | 04/05/2026 | |  ||
 | 11/05/2026 | |  ||
 | 18/05/2026 | |  ||
