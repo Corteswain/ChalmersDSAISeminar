@@ -70,4 +70,4 @@ Yes, there is a Zoom Room:
 | 04/05/2026 | |  ||
 | 11/05/2026 | |  ||
 | 18/05/2026 | |  ||
-| 25/05/2026 | |  ||
+| 25/05/2026 | Matti Karppa |Huffman-Bucket Sketch: A Simple 𝑂(𝑚) Algorithm for Cardinality Estimation  ||
